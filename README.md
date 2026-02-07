@@ -35,6 +35,7 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OOPS-Concept-green?style=for-the-badge" />
 </p>
+---
 
  ## ⚡ Tooling & DevOps:
 <p align="left">
