@@ -1,57 +1,68 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Himanshu%20Pathak&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Himanshu%20Pathak&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Frontend+Developer;Building+Startup+Team+Platform;UI/UX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00d2ff&center=true&vCenter=true&width=435&lines=Frontend+Engineer;Startup+MVP+Builder;UI/UX+Architect;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-I am a passionate **Frontend Developer** dedicated to building the **Startup Team Platform**—a bridge between visionary founders and top-tier talent. My focus is on creating high-fidelity, professional user experiences using clean and efficient code.
+I am a dedicated **Frontend Engineer** with a vision to revolutionize the startup ecosystem. Currently, I am spearheading the development of the **Startup Team Platform**—a high-fidelity MVP designed to seamlessly connect visionary founders with specialized talent. My expertise lies in architecting responsive, user-centric interfaces and writing clean, scalable code that transforms complex ideas into interactive digital experiences.
 
-- 🔭 **Working on:** [Startup Team Platform](https://github.com/Himanshu72690/startup-Team) MVP
-- 🎨 **Designing:** A professional [Personal Portfolio](https://github.com/Himanshu72690/portfolio) website
-- ⚡ **Focus:** Responsive Web Design & Interactive UIs
+- 🔭 **Current Venture:** Leading the frontend architecture of the [Startup Team Platform](https://github.com/Himanshu72690/startup-Team).
+- 🎨 **Creative Pursuit:** Crafting an immersive [Professional Portfolio](https://github.com/Himanshu72690/portfolio) to showcase advanced UI patterns.
+- ⚡ **Specialization:** Building high-performance single-page applications and responsive layouts.
+- 🌱 **Learning:** Exploring Backend-as-a-Service (Firebase/Supabase) to complement my frontend skills.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Professional Tech Stack & Mastery
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Ecosystem (Insights)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu72690&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu72690&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu72690&show_icons=true&theme=transparent&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu72690&layout=compact&theme=transparent&hide_border=true&title_color=00d2ff&text_color=ffffff" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu72690&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu72690&theme=transparent&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" width="100%" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect & Collaborate
 <p align="left">
   <a href="mailto:hp1036630@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://instagram.com/your_username">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/your_username">
+    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your_profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Himanshu72690&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Himanshu72690&color=00d2ff&style=flat-square&label=VISITOR+COUNT" />
 </p>
