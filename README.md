@@ -19,7 +19,9 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
 * 🌱 **Learning:** Exploring the full potential of **React.js** to build dynamic user experiences.
 
 
-## 🌐 Frontend Development:
+---
+
+### 🌐 Frontend Development:
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -28,22 +30,26 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### 💻Programming & Core:
+---
+
+### 💻 Programming & Core:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OOPS-Concept-green?style=for-the-badge" />
 </p>
+
 ---
 
- ## ⚡ Tooling & DevOps:
+### ⚡ Tooling & DevOps:
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
 
 ---
 
