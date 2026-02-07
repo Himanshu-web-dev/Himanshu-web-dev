@@ -4,31 +4,36 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00d2ff&center=true&vCenter=true&width=435&lines=Frontend+Engineer;Startup+MVP+Builder;UI/UX+Architect;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00d2ff&center=true&vCenter=true&width=435&lines=Frontend+Developer;Startup+MVP+Builder;UI/UX+Architect;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
-I am a dedicated **Frontend Engineer** with a vision to revolutionize the startup ecosystem. Currently, I am spearheading the development of the **Startup Team Platform**—a high-fidelity MVP designed to seamlessly connect visionary founders with specialized talent. My expertise lies in architecting responsive, user-centric interfaces and writing clean, scalable code that transforms complex ideas into interactive digital experiences.
+ 🚀 About Me
+I am a dedicated **Frontend Developer** with a vision to revolutionize the startup ecosystem. Currently, I am spearheading the development of the **Startup Team Platform**—a high-fidelity MVP designed to seamlessly connect visionary founders with specialized talent. My expertise lies in architecting responsive, user-centric interfaces and writing clean, scalable code that transforms complex ideas into interactive digital experiences.
 
 - 🔭 **Current Venture:** Leading the frontend architecture of the [Startup Team Platform](https://github.com/Himanshu72690/startup-Team).
 - 🎨 **Creative Pursuit:** Crafting an immersive [Professional Portfolio](https://github.com/Himanshu72690/portfolio) to showcase advanced UI patterns.
-- ⚡ **Specialization:** Building high-performance single-page applications and responsive layouts.
-- 🌱 **Learning:** Exploring Backend-as-a-Service (Firebase/Supabase) to complement my frontend skills.
+- 🎓 **Academics:** Strong foundation in **OOPS, Data Structures, and Core Programming**.
+- 🌱 **Learning:** Exploring the full potential of **React.js** to build dynamic user experiences.
 
 ---
 
 ### 🛠️ Professional Tech Stack & Mastery
 <p align="left">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOPS-Concept-green?style=for-the-badge" />
+  <br>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
@@ -37,12 +42,12 @@ I am a dedicated **Frontend Engineer** with a vision to revolutionize the startu
 
 ### 📊 GitHub Ecosystem (Insights)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu72690&show_icons=true&theme=transparent&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu72690&layout=compact&theme=transparent&hide_border=true&title_color=00d2ff&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu72690&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu72690&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu72690&theme=transparent&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu72690&theme=tokyonight" width="100%" />
 </p>
 
 ---
@@ -58,11 +63,12 @@ I am a dedicated **Frontend Engineer** with a vision to revolutionize the startu
   <a href="https://t.me/your_username">
     <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your_profile">
+  <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Himanshu72690&color=00d2ff&style=flat-square&label=VISITOR+COUNT" />
+---
+<p align="center">
+  <i>"Code is the language of the future. Let's speak it fluently."</i>
 </p>
