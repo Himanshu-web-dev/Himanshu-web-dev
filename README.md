@@ -19,7 +19,7 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
 * 🌱 **Learning:** Exploring the full potential of **React.js** to build dynamic user experiences.
 
 
-## 🌐 Frontend Development
+## 🌐 Frontend Development:
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -46,18 +46,6 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
 
 ---
 
-## 📊 GitHub Insights:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu72690&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu72690&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu72690&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
----
-
 ## 🌐 Social:
 <p align="left">
   <a href="mailto:hp1036630@gmail.com">
@@ -73,6 +61,20 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 📊 GitHub Insights:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu72690&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu72690&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu72690&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
+</p>
+
 
 ---
 
