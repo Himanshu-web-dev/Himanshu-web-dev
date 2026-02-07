@@ -8,9 +8,9 @@
   </a>
 </p>
 
----
 
- 🚀 About Me
+
+About Me
 I am a dedicated **Frontend Developer** with a vision to revolutionize the startup ecosystem. Currently, I am spearheading the development of the **Startup Team Platform**—a high-fidelity MVP designed to seamlessly connect visionary founders with specialized talent. My expertise lies in architecting responsive, user-centric interfaces and writing clean, scalable code that transforms complex ideas into interactive digital experiences.
 
 - 🔭 **Current Venture:** Leading the frontend architecture of the [Startup Team Platform](https://github.com/Himanshu72690/startup-Team).
@@ -18,9 +18,9 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
 - 🎓 **Academics:** Strong foundation in **OOPS, Data Structures, and Core Programming**.
 - 🌱 **Learning:** Exploring the full potential of **React.js** to build dynamic user experiences.
 
----
 
-### 🛠️ Professional Tech Stack & Mastery
+
+  Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,7 +40,7 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
 
 ---
 
-### 📊 GitHub Ecosystem (Insights)
+ 📊 GitHub (Insights)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Himanshu72690&show_icons=true&theme=radical&hide_border=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu72690&layout=compact&theme=radical&hide_border=false" width="48%" />
@@ -50,9 +50,9 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu72690&theme=tokyonight" width="100%" />
 </p>
 
----
 
-### 📫 Connect & Collaborate
+
+  Social:
 <p align="left">
   <a href="mailto:hp1036630@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -68,7 +68,7 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
   </a>
 </p>
 
----
+
 <p align="center">
   <i>"Code is the language of the future. Let's speak it fluently."</i>
 </p>
