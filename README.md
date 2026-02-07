@@ -42,8 +42,8 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
 
 ### 📊 GitHub Ecosystem (Insights)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu72690&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu72690&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu72690&show_icons=true&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu72690&layout=compact&theme=radical&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
