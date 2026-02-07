@@ -10,33 +10,43 @@
 
 ---
 
-## 💫 About Me
+## 💫 About Me:
 I am a dedicated **Frontend Developer** with a vision to revolutionize the startup ecosystem. Currently, I am spearheading the development of the **Startup Team Platform**—a high-fidelity MVP designed to seamlessly connect visionary founders with specialized talent.
 
-* 🔭 **Current Project:** Leading frontend development for [Startup Team Platform](https://github.com/Himanshu72690/startup-Team).
-* 🎨 **Creative Work:** Crafting an immersive [Professional Portfolio](https://github.com/Himanshu72690/portfolio).
-* 🎓 **Skills:** Strong foundation in **Java, Python, C, and OOPS Concepts**.
-* 🌱 **Focus:** Mastering **React.js** to build dynamic, scalable web experiences.
+* 🚀 **Current Venture:** Leading the frontend architecture of the [Startup Team Platform](https://github.com/Himanshu72690/startup-Team).
+* 🎨 **Creative Pursuit:** Crafting an immersive [Professional Portfolio](https://github.com/Himanshu72690/portfolio) to showcase advanced UI patterns.
+* 🎓 **Academics:** Strong foundation in **OOPS, Data Structures, and Core Programming**.
+* 🌱 **Learning:** Exploring the full potential of **React.js** to build dynamic user experiences.
 
----
 
-## 💻 Tech Stack:
+## 🌐 Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br>
+</p>
+
+### 💻Programming & Core:
+<p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OOPS-Concept-green?style=for-the-badge" />
+</p>
+
+ ## ⚡ Tooling & DevOps:
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Insights:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Himanshu72690&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu72690&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
@@ -48,7 +58,7 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
 
 ---
 
- 🌐 Social:
+## 🌐 Social:
 <p align="left">
   <a href="mailto:hp1036630@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -56,7 +66,10 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
   <a href="https://instagram.com/your_username">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your_profile">
+  <a href="https://t.me/your_username">
+    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
