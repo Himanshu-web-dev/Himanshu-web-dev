@@ -10,7 +10,7 @@
 
 
 
-About Me
+💫About Me
 I am a dedicated **Frontend Developer** with a vision to revolutionize the startup ecosystem. Currently, I am spearheading the development of the **Startup Team Platform**—a high-fidelity MVP designed to seamlessly connect visionary founders with specialized talent. My expertise lies in architecting responsive, user-centric interfaces and writing clean, scalable code that transforms complex ideas into interactive digital experiences.
 
 - 🔭 **Current Venture:** Leading the frontend architecture of the [Startup Team Platform](https://github.com/Himanshu72690/startup-Team).
@@ -18,9 +18,7 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
 - 🎓 **Academics:** Strong foundation in **OOPS, Data Structures, and Core Programming**.
 - 🌱 **Learning:** Exploring the full potential of **React.js** to build dynamic user experiences.
 
-
-
-  Tech Stack:
+ 💻Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -52,7 +50,7 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
 
 
 
-  Social:
+ 🌐Social:
 <p align="left">
   <a href="mailto:hp1036630@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
