@@ -71,14 +71,46 @@ I am a dedicated **Frontend Developer** with a vision to revolutionize the start
 
 ---
 
-## 📊 GitHub Insights:
+
+## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu72690&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu72690&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu72690&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
+---
+
+## 📈 Contribution Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu72690&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
+
+## 🚀 Featured Projects:
+
+<p align="center">
+  <a href="https://github.com/Himanshu72690/startup-Team">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu72690&repo=startup-Team&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Himanshu72690/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu72690&repo=portfolio&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Himanshu72690/Healthycare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu72690&repo=Healthycare&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Himanshu72690/CodeExec-Pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu72690&repo=CodeExec-Pro&theme=tokyonight" />
+  </a>
+</p>
+
+<!-- Aise hi continue karo -->
 
 <p align="center">
   <i>"Code is the language of the future. Let's speak it fluently."</i>
