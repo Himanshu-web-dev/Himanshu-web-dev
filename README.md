@@ -11,7 +11,7 @@
 ---
 
 ## 💫 About Me:
-I am a dedicated **Frontend Developer** with a vision to revolutionize the startup ecosystem. Currently, I am spearheading the development of the **Startup Team Platform**—a high-fidelity MVP designed to seamlessly connect visionary founders with specialized talent.
+I am a dedicated **Full Stack Developer** with a vision to revolutionize the startup ecosystem. Currently, I am spearheading the development of the **Startup Team Platform**—a high-fidelity MVP designed to seamlessly connect visionary founders with specialized talent.
 
 * 🚀 **Current Venture:** Leading the frontend architecture of the [Startup Team Platform](https://github.com/Himanshu72690/startup-Team).
 * 🎨 **Creative Pursuit:** Crafting an immersive [Professional Portfolio](https://github.com/Himanshu72690/portfolio) to showcase advanced UI patterns.
